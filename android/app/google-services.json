@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "225988188820",
+    "firebase_url": "https://sahem-eee0f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sahem-eee0f",
+    "storage_bucket": "sahem-eee0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225988188820:android:15d3dd141d5daaac32b281",
+        "android_client_info": {
+          "package_name": "com.askalan.sahem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225988188820-9s0h5hla11v608ne01jjdplnkureenme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.askalan.sahem",
+            "certificate_hash": "243027ef2c4009cfc44bf5719a4d33d972300573"
+          }
+        },
+        {
+          "client_id": "225988188820-gun733b5hg4dtqhnoc08qfskks30puua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV9NRlUaE7xzX1WU2-QIcKhiZ4-hmXwOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225988188820-gun733b5hg4dtqhnoc08qfskks30puua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
